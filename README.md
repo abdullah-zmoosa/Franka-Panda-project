@@ -1,5 +1,22 @@
 # Robotic Manipulator Simulation with CoppeliaSim
 
+
+![image](https://github.com/user-attachments/assets/5949cf57-3b9a-4ecf-aa66-516ef3d03e0f)
+
+
+![image](https://github.com/user-attachments/assets/21aee3a5-a407-4436-966a-91232dce8dcc)
+
+
+
+![image](https://github.com/user-attachments/assets/49d458f0-08e4-4eb3-a2ea-d9719981977d)
+
+
+
+
+
+
+
+
 This project simulates a robotic manipulator using CoppeliaSim and Python. The goal is to control and analyze the movement of the Franka Panda robot arm in a virtual environment. The implementation is done using Python API, making use of the ZEROMQ interface to communicate with CoppeliaSim. The project covers various tasks involving Cartesian positioning, velocity control, and trajectory planning for the robot arm.
 
 ## Features
